@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devitaexcellent02nepogoog_0008.png"; bbox 0 0 1787 3104; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 68 27 1094 301">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 68 27 1094 301">
+     <span class='ocr_line' id='line_1_1' title="bbox 68 27 1094 301; baseline 0.012 -145"><span class='ocrx_word' id='word_1_1' title='bbox 68 28 267 279; x_wconf 56' lang='lat' dir='ltr'>g</span> <span class='ocrx_word' id='word_1_2' title='bbox 274 27 1094 301; x_wconf 34' lang='grc' dir='ltr'><strong>ΜΝ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 504 305 1423 663">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 504 305 1423 663">
+     <span class='ocr_line' id='line_1_2' title="bbox 504 305 1423 490; baseline 0.007 -12.106"><span class='ocrx_word' id='word_1_3' title='bbox 520 457 525 460; x_wconf 32' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 504 305 1146 482; x_wconf 57' lang='lat' dir='ltr'><strong>flumem-tzere</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1175 431 1423 490; x_wconf 66' lang='lat' dir='ltr'><strong>usnam</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 893 517 1119 569; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 893 517 1022 569; x_wconf 70' lang='lat' dir='ltr'><strong>em</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1051 517 1119 567; x_wconf 69' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 649 596 1363 663; baseline 0.011 -16"><span class='ocrx_word' id='word_1_8' title='bbox 649 656 657 663; x_wconf 54' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 718 596 968 650; x_wconf 69' lang='lat' dir='ltr'>cuntes</span> <span class='ocrx_word' id='word_1_10' title='bbox 995 599 1045 652; x_wconf 75' lang='lat' dir='ltr'><strong>n.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1073 599 1294 655; x_wconf 73' lang='grc' dir='ltr'>τΑνιοκ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1359 630 1363 634; x_wconf 90' lang='grc'><strong>-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 794 670 1332 847">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 794 670 1332 847">
+     <span class='ocr_line' id='line_1_5' title="bbox 794 670 1332 847; baseline -0.015 -70"><span class='ocrx_word' id='word_1_13' title='bbox 794 670 1332 847; x_wconf 45' lang='lat' dir='ltr'><strong>Qtwaaw</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
